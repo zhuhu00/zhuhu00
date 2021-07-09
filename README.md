@@ -5,7 +5,7 @@
 
 [![Zhuhu's github stats](https://github-readme-stats.vercel.app/api?username=zhuhu00&show_icons=true)](https://github.com/zhuhu00/)
 
-</td><td align="top" width="45%">
+</td><td align="top" width="40%">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuhu00&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
