@@ -2,6 +2,7 @@
 #
 <p align="center"> <a href="https://coderstats.net/github/#zhuhu00"> <img src="https://github-readme-stats.vercel.app/api?username=zhuhu00&hide_title=true&show_icons=true&theme=vue&hide=prs,contribs"width="70%"> </a> </p>
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WeihanLi&theme=dark&layout=compact)
 <!--
 **zhuhu00/zhuhu00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
