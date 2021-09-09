@@ -1,5 +1,5 @@
 ## Hi there 👋
-#### A SLAM Tech chaser.
+#### A SLAM Tech beginner.
 
 <!--p align="center"> <a href="https://coderstats.net/github/#zhuhu00"> <img src="https://github-readme-stats.vercel.app/api?username=zhuhu00&hide_title=true&show_icons=true&theme=vue&hide=prs,contribs"width="70%"> </a> </p -->
 
