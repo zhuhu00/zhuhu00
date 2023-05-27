@@ -1,5 +1,5 @@
 ## Hi there 👋
-#### A SLAM Tech beginner.
+#### A 3D Tech beginner.
 
 Visitors: 
 
@@ -20,8 +20,8 @@ Visitors:
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on A project
-- 🌱 I’m currently learning SLAM
-- 👯 I’m looking to collaborate on SLAM
+- 🌱 I’m currently learning 3D Vision
+- 👯 I’m looking to collaborate on 3D Vision
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: zhuhu00@foxmail.com
